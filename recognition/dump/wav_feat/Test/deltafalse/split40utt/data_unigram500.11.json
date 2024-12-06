@@ -1,0 +1,3879 @@
+{
+    "utts": {
+        "rev2-6331559613336179781-00027": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:25655",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331559613336179781-00027.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331559613336179781/00027.npy",
+                    "vshape": [
+                        46,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "we can just about get away with it now",
+                    "token": "▁we ▁can ▁just ▁about ▁get ▁a w a y ▁with ▁it ▁now",
+                    "tokenid": "480 192 301 144 254 143 136 3 138 490 298 345"
+                }
+            ],
+            "utt2spk": "rev2-6331559613336179781"
+        },
+        "rev2-6331559613336179781-00029": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:41067",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331559613336179781-00029.wav",
+                    "ashape": [
+                        177,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331559613336179781/00029.npy",
+                    "vshape": [
+                        44,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "something like a garden compost",
+                    "token": "▁something ▁like ▁a ▁g ar d en ▁comp os t",
+                    "tokenid": "418 314 143 251 14 25 31 202 96 114"
+                }
+            ],
+            "utt2spk": "rev2-6331559613336179781"
+        },
+        "rev2-6331559613336179781-00036": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:55919",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331559613336179781-00036.wav",
+                    "ashape": [
+                        171,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331559613336179781/00036.npy",
+                    "vshape": [
+                        43,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "it's not all about size",
+                    "token": "▁it ' s ▁not ▁all ▁about ▁s ize",
+                    "tokenid": "298 2 113 344 151 144 394 73"
+                }
+            ],
+            "utt2spk": "rev2-6331559613336179781"
+        },
+        "rev2-6331559613336179781-00038": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:70291",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331559613336179781-00038.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331559613336179781/00038.npy",
+                    "vshape": [
+                        32,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "and if you want wonderful",
+                    "token": "▁and ▁if ▁you ▁want ▁wonder ful",
+                    "tokenid": "156 288 499 477 492 42"
+                }
+            ],
+            "utt2spk": "rev2-6331559613336179781"
+        },
+        "rev2-6331559613336179781-00039": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:81063",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331559613336179781-00039.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331559613336179781/00039.npy",
+                    "vshape": [
+                        32,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "starting with the compost",
+                    "token": "▁start ing ▁with ▁the ▁comp os t",
+                    "tokenid": "423 61 490 441 202 96 114"
+                }
+            ],
+            "utt2spk": "rev2-6331559613336179781"
+        },
+        "rev2-6331733559511729306-00011": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:91835",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331733559511729306-00011.wav",
+                    "ashape": [
+                        145,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331733559511729306/00011.npy",
+                    "vshape": [
+                        36,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "for a brief time",
+                    "token": "▁for ▁a ▁br i e f ▁time",
+                    "tokenid": "246 143 183 48 27 39 458"
+                }
+            ],
+            "utt2spk": "rev2-6331733559511729306"
+        },
+        "rev2-6331733559511729306-00025": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:104127",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331733559511729306-00025.wav",
+                    "ashape": [
+                        171,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331733559511729306/00025.npy",
+                    "vshape": [
+                        42,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "it will change lives",
+                    "token": "▁it ▁will ▁change ▁live s",
+                    "tokenid": "298 489 196 316 113"
+                }
+            ],
+            "utt2spk": "rev2-6331733559511729306"
+        },
+        "rev2-6331733559511729306-00026": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:118499",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331733559511729306-00026.wav",
+                    "ashape": [
+                        222,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331733559511729306/00026.npy",
+                    "vshape": [
+                        56,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "when my husband and i are not around",
+                    "token": "▁when ▁my ▁hu s b an d ▁and ▁i ▁are ▁not ▁around",
+                    "tokenid": "484 335 283 113 20 11 25 156 286 162 344 163"
+                }
+            ],
+            "utt2spk": "rev2-6331733559511729306"
+        },
+        "rev2-6331733559511729306-00031": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:136951",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6331733559511729306-00031.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6331733559511729306/00031.npy",
+                    "vshape": [
+                        35,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "please donate now",
+                    "token": "▁p le as e ▁don ate ▁now",
+                    "tokenid": "360 80 15 27 221 17 345"
+                }
+            ],
+            "utt2spk": "rev2-6331733559511729306"
+        },
+        "rev2-6332062124509813446-00015": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:148763",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332062124509813446-00015.wav",
+                    "ashape": [
+                        100,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332062124509813446/00015.npy",
+                    "vshape": [
+                        25,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "don't forget me",
+                    "token": "▁don ' t ▁for ge t ▁me",
+                    "tokenid": "221 2 114 246 44 114 327"
+                }
+            ],
+            "utt2spk": "rev2-6332062124509813446"
+        },
+        "rev2-6332062124509813446-00016": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:157455",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332062124509813446-00016.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332062124509813446/00016.npy",
+                    "vshape": [
+                        32,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "these are my words",
+                    "token": "▁these ▁are ▁my ▁word s",
+                    "tokenid": "446 162 335 493 113"
+                }
+            ],
+            "utt2spk": "rev2-6332062124509813446"
+        },
+        "rev2-6332062124509813446-00018": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:168227",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332062124509813446-00018.wav",
+                    "ashape": [
+                        260,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332062124509813446/00018.npy",
+                    "vshape": [
+                        65,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        22,
+                        502
+                    ],
+                    "text": "it would have been completely alien to the rest of london",
+                    "token": "▁it ▁would ▁have ▁been ▁comp le te ly ▁a l i en ▁to ▁the ▁re s t ▁of ▁lo n d on",
+                    "tokenid": "298 496 271 174 202 80 116 82 143 77 48 31 459 441 387 113 114 348 317 85 25 93"
+                }
+            ],
+            "utt2spk": "rev2-6332062124509813446"
+        },
+        "rev2-6332062124509813446-00059": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:189719",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332062124509813446-00059.wav",
+                    "ashape": [
+                        267,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332062124509813446/00059.npy",
+                    "vshape": [
+                        67,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        22,
+                        502
+                    ],
+                    "text": "but i think what we're seeing here is kind of the blueprint",
+                    "token": "▁but ▁i ▁think ▁what ▁we ' re ▁see ing ▁here ▁is ▁kind ▁of ▁the ▁b l u e p r in t",
+                    "tokenid": "186 286 450 483 480 2 108 404 61 276 297 303 348 441 167 77 123 27 101 106 59 114"
+                }
+            ],
+            "utt2spk": "rev2-6332062124509813446"
+        },
+        "rev2-6332062124509813446-00063": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:211771",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332062124509813446-00063.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332062124509813446/00063.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "he was so popular",
+                    "token": "▁he ▁was ▁so ▁po p ul ar",
+                    "tokenid": "272 478 415 372 101 125 14"
+                }
+            ],
+            "utt2spk": "rev2-6332062124509813446"
+        },
+        "rev2-6332491191742745853-00011": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:222063",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332491191742745853-00011.wav",
+                    "ashape": [
+                        190,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332491191742745853/00011.npy",
+                    "vshape": [
+                        48,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        19,
+                        502
+                    ],
+                    "text": "instead of being someone's arm candy",
+                    "token": "▁in s te a d ▁of ▁be ing ▁some on e ' s ▁a r m ▁can d y",
+                    "tokenid": "292 113 116 3 25 348 171 61 417 93 27 2 113 143 106 83 192 25 138"
+                }
+            ],
+            "utt2spk": "rev2-6332491191742745853"
+        },
+        "rev2-6332491191742745853-00014": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:237955",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332491191742745853-00014.wav",
+                    "ashape": [
+                        331,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332491191742745853/00014.npy",
+                    "vshape": [
+                        83,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "i expected you to have a past",
+                    "token": "▁i ▁ex p ect ed ▁you ▁to ▁have ▁a ▁pa s t",
+                    "tokenid": "286 234 101 28 29 499 459 271 143 361 113 114"
+                }
+            ],
+            "utt2spk": "rev2-6332491191742745853"
+        },
+        "rev2-6332804294858562278-00009": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:265127",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332804294858562278-00009.wav",
+                    "ashape": [
+                        158,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332804294858562278/00009.npy",
+                    "vshape": [
+                        39,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "see how much it comes to",
+                    "token": "▁see ▁how ▁much ▁it ▁come s ▁to",
+                    "tokenid": "404 282 334 298 201 113 459"
+                }
+            ],
+            "utt2spk": "rev2-6332804294858562278"
+        },
+        "rev2-6332804294858562278-00020": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:278459",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332804294858562278-00020.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332804294858562278/00020.npy",
+                    "vshape": [
+                        27,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "i pay the money",
+                    "token": "▁i ▁pa y ▁the ▁money",
+                    "tokenid": "286 361 138 441 331"
+                }
+            ],
+            "utt2spk": "rev2-6332804294858562278"
+        },
+        "rev2-6332804294858562278-00026": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:287711",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332804294858562278-00026.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332804294858562278/00026.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "over the course of his life",
+                    "token": "▁over ▁the ▁course ▁of ▁his ▁life",
+                    "tokenid": "358 441 209 348 279 312"
+                }
+            ],
+            "utt2spk": "rev2-6332804294858562278"
+        },
+        "rev2-6332804294858562278-00034": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:298003",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6332804294858562278-00034.wav",
+                    "ashape": [
+                        81,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6332804294858562278/00034.npy",
+                    "vshape": [
+                        20,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "when it's finished",
+                    "token": "▁when ▁it ' s ▁f in ish ed",
+                    "tokenid": "484 298 2 113 237 59 65 29"
+                }
+            ],
+            "utt2spk": "rev2-6332804294858562278"
+        },
+        "rev2-6333175380032936690-00012": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:305175",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6333175380032936690-00012.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6333175380032936690/00012.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        4,
+                        502
+                    ],
+                    "text": "but before i do",
+                    "token": "▁but ▁before ▁i ▁do",
+                    "tokenid": "186 175 286 220"
+                }
+            ],
+            "utt2spk": "rev2-6333175380032936690"
+        },
+        "rev2-6333175380032936690-00015": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:315467",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6333175380032936690-00015.wav",
+                    "ashape": [
+                        286,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6333175380032936690/00015.npy",
+                    "vshape": [
+                        72,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        14,
+                        502
+                    ],
+                    "text": "this house will just come together and flourish",
+                    "token": "▁this ▁ho us e ▁will ▁just ▁come ▁together ▁and ▁f l o ur ish",
+                    "tokenid": "452 280 130 27 489 301 201 461 156 237 77 89 128 65"
+                }
+            ],
+            "utt2spk": "rev2-6333175380032936690"
+        },
+        "rev2-6333604447265869137-00003": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:339039",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6333604447265869137-00003.wav",
+                    "ashape": [
+                        241,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6333604447265869137/00003.npy",
+                    "vshape": [
+                        60,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        15,
+                        502
+                    ],
+                    "text": "any man would be proud to have you as a son",
+                    "token": "▁any ▁ma n ▁would ▁be ▁pro u d ▁to ▁have ▁you ▁as ▁a ▁so n",
+                    "tokenid": "160 322 85 496 171 377 123 25 459 271 499 165 143 415 85"
+                }
+            ],
+            "utt2spk": "rev2-6333604447265869137"
+        },
+        "rev2-6333604447265869137-00005": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:359011",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6333604447265869137-00005.wav",
+                    "ashape": [
+                        88,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6333604447265869137/00005.npy",
+                    "vshape": [
+                        22,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "at the end of the day",
+                    "token": "▁at ▁the ▁en d ▁of ▁the ▁day",
+                    "tokenid": "166 441 228 25 348 441 212"
+                }
+            ],
+            "utt2spk": "rev2-6333604447265869137"
+        },
+        "rev2-6334149478615670679-00004": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:366743",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334149478615670679-00004.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334149478615670679/00004.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "get them into the garden",
+                    "token": "▁get ▁them ▁into ▁the ▁g ar d en",
+                    "tokenid": "254 443 296 441 251 14 25 31"
+                }
+            ],
+            "utt2spk": "rev2-6334149478615670679"
+        },
+        "rev2-6334149478615670679-00008": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:377035",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334149478615670679-00008.wav",
+                    "ashape": [
+                        190,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334149478615670679/00008.npy",
+                    "vshape": [
+                        47,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "this one is totally out of control",
+                    "token": "▁this ▁one ▁is ▁to t ally ▁out ▁of ▁control",
+                    "tokenid": "452 351 297 459 114 9 357 348 206"
+                }
+            ],
+            "utt2spk": "rev2-6334149478615670679"
+        },
+        "rev2-6334149478615670679-00015": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:392927",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334149478615670679-00015.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334149478615670679/00015.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "but it comes and goes",
+                    "token": "▁but ▁it ▁come s ▁and ▁go es",
+                    "tokenid": "186 298 201 113 156 257 36"
+                }
+            ],
+            "utt2spk": "rev2-6334149478615670679"
+        },
+        "rev2-6334149478615670679-00025": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:402179",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334149478615670679-00025.wav",
+                    "ashape": [
+                        190,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334149478615670679/00025.npy",
+                    "vshape": [
+                        48,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        18,
+                        502
+                    ],
+                    "text": "it's part of the national gardens scheme",
+                    "token": "▁it ' s ▁part ▁of ▁the ▁n ation al ▁g ar d en s ▁sc he m e",
+                    "tokenid": "298 2 113 362 348 441 336 19 8 251 14 25 31 113 399 47 83 27"
+                }
+            ],
+            "utt2spk": "rev2-6334149478615670679"
+        },
+        "rev2-6334331155732352379-00002": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:418071",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334331155732352379-00002.wav",
+                    "ashape": [
+                        132,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334331155732352379/00002.npy",
+                    "vshape": [
+                        33,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "i think it's brilliant",
+                    "token": "▁i ▁think ▁it ' s ▁br i ll ian t",
+                    "tokenid": "286 450 298 2 113 183 48 81 50 114"
+                }
+            ],
+            "utt2spk": "rev2-6334331155732352379"
+        },
+        "rev2-6334563083966338309-00004": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:429323",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00004.wav",
+                    "ashape": [
+                        216,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00004.npy",
+                    "vshape": [
+                        54,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        14,
+                        502
+                    ],
+                    "text": "a one bedroom first floor flat",
+                    "token": "▁a ▁one ▁be d ro om ▁first ▁f l o or ▁f l at",
+                    "tokenid": "143 351 171 25 110 92 243 237 77 89 95 237 77 16"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334563083966338309-00024": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:447295",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00024.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00024.npy",
+                    "vshape": [
+                        34,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "if it was going to be increased",
+                    "token": "▁if ▁it ▁was ▁going ▁to ▁be ▁in c re as ed",
+                    "tokenid": "288 298 478 258 459 171 292 21 108 15 29"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334563083966338309-00057": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:459107",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00057.wav",
+                    "ashape": [
+                        132,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00057.npy",
+                    "vshape": [
+                        33,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "but it's a decent size",
+                    "token": "▁but ▁it ' s ▁a ▁de c ent ▁s ize",
+                    "tokenid": "186 298 2 113 143 213 21 33 394 73"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334563083966338309-00081": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:470359",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00081.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00081.npy",
+                    "vshape": [
+                        38,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        13,
+                        502
+                    ],
+                    "text": "i'm not massively happy",
+                    "token": "▁i ' m ▁not ▁ma s s ive ly ▁ha p p y",
+                    "tokenid": "286 2 83 344 322 113 113 71 82 264 101 101 138"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334563083966338309-00089": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:483211",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00089.wav",
+                    "ashape": [
+                        382,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00089.npy",
+                    "vshape": [
+                        96,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        23,
+                        502
+                    ],
+                    "text": "if you are looking round auction properties before the auction",
+                    "token": "▁if ▁you ▁are ▁look ing ▁ r ound ▁a u c tion ▁pro p er t ies ▁before ▁the ▁a u c tion",
+                    "tokenid": "288 499 162 319 61 142 106 98 143 123 21 122 377 101 34 114 56 175 441 143 123 21 122"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334563083966338309-00103": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:514463",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00103.wav",
+                    "ashape": [
+                        580,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00103.npy",
+                    "vshape": [
+                        145,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        32,
+                        502
+                    ],
+                    "text": "it's a very attractive guide price for a substantial house so well",
+                    "token": "▁it ' s ▁a ▁very ▁at t ra c t ive ▁g u id e ▁p ri ce ▁for ▁a ▁su b s t ant i al ▁ho us e ▁so ▁well",
+                    "tokenid": "298 2 113 143 474 166 114 107 21 114 71 251 123 55 27 360 109 22 246 143 427 20 113 114 13 48 8 280 130 27 415 481"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334563083966338309-00106": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:561555",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334563083966338309-00106.wav",
+                    "ashape": [
+                        305,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334563083966338309/00106.npy",
+                    "vshape": [
+                        76,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        13,
+                        502
+                    ],
+                    "text": "did they get it done on time and for the right money",
+                    "token": "▁did ▁they ▁get ▁it ▁don e ▁on ▁time ▁and ▁for ▁the ▁right ▁money",
+                    "tokenid": "217 447 254 298 221 27 350 458 156 246 441 392 331"
+                }
+            ],
+            "utt2spk": "rev2-6334563083966338309"
+        },
+        "rev2-6334934169140712754-00001": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:586647",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00001.wav",
+                    "ashape": [
+                        177,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00001.npy",
+                    "vshape": [
+                        44,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        13,
+                        502
+                    ],
+                    "text": "but what a surprise when you come in",
+                    "token": "▁but ▁what ▁a ▁s ur p ri s e ▁when ▁you ▁come ▁in",
+                    "tokenid": "186 483 143 394 128 101 109 113 27 484 499 201 292"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00002": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:601499",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00002.wav",
+                    "ashape": [
+                        190,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00002.npy",
+                    "vshape": [
+                        47,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "because it's fantastic",
+                    "token": "▁because ▁it ' s ▁f ant as tic",
+                    "tokenid": "172 298 2 113 237 13 15 121"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00013": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:617391",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00013.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00013.npy",
+                    "vshape": [
+                        31,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "what do you think about that",
+                    "token": "▁what ▁do ▁you ▁think ▁about ▁that",
+                    "tokenid": "483 220 499 450 144 440"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00059": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:628163",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00059.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00059.npy",
+                    "vshape": [
+                        37,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "he's looking to sell it",
+                    "token": "▁he ' s ▁look ing ▁to ▁se ll ▁it",
+                    "tokenid": "272 2 113 319 61 459 402 81 298"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00068": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:641015",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00068.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00068.npy",
+                    "vshape": [
+                        38,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "it's not as easy as it looks",
+                    "token": "▁it ' s ▁not ▁as ▁e as y ▁as ▁it ▁look s",
+                    "tokenid": "298 2 113 344 165 224 15 138 165 298 319 113"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00070": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:653867",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00070.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00070.npy",
+                    "vshape": [
+                        29,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "stick to what you're good at",
+                    "token": "▁st ick ▁to ▁what ▁you ' re ▁good ▁at",
+                    "tokenid": "422 54 459 483 499 2 108 259 166"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00073": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:664159",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00073.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00073.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        3,
+                        502
+                    ],
+                    "text": "that is important",
+                    "token": "▁that ▁is ▁important",
+                    "tokenid": "440 297 291"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6334934169140712754-00082": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:673411",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6334934169140712754-00082.wav",
+                    "ashape": [
+                        132,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6334934169140712754/00082.npy",
+                    "vshape": [
+                        33,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "but he did really well",
+                    "token": "▁but ▁he ▁did ▁really ▁well",
+                    "tokenid": "186 272 217 389 481"
+                }
+            ],
+            "utt2spk": "rev2-6334934169140712754"
+        },
+        "rev2-6335003747610845928-00004": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:684663",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335003747610845928-00004.wav",
+                    "ashape": [
+                        203,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335003747610845928/00004.npy",
+                    "vshape": [
+                        50,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        15,
+                        502
+                    ],
+                    "text": "and do what i used to do when i was a little boy",
+                    "token": "▁and ▁do ▁what ▁i ▁us ed ▁to ▁do ▁when ▁i ▁was ▁a ▁little ▁bo y",
+                    "tokenid": "156 220 483 286 471 29 459 220 484 286 478 143 315 181 138"
+                }
+            ],
+            "utt2spk": "rev2-6335003747610845928"
+        },
+        "rev2-6335003747610845928-00009": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:701595",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335003747610845928-00009.wav",
+                    "ashape": [
+                        478,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335003747610845928/00009.npy",
+                    "vshape": [
+                        120,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        33,
+                        502
+                    ],
+                    "text": "i'm starting up a venue for yank holiday makers on an island at bahamas",
+                    "token": "▁i ' m ▁start ing ▁up ▁a ▁v en u e ▁for ▁ y an k ▁ho l id a y ▁make r s ▁on ▁an ▁is land ▁at ▁ba h am as",
+                    "tokenid": "286 2 83 423 61 470 143 473 31 123 27 246 142 138 11 75 280 77 55 3 138 324 106 113 350 155 297 79 166 168 46 10 15"
+                }
+            ],
+            "utt2spk": "rev2-6335003747610845928"
+        },
+        "rev2-6335003747610845928-00022": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:740527",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335003747610845928-00022.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335003747610845928/00022.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "i couldn't read it",
+                    "token": "▁i ▁could n ' t ▁re a d ▁it",
+                    "tokenid": "286 207 85 2 114 387 3 25 298"
+                }
+            ],
+            "utt2spk": "rev2-6335003747610845928"
+        },
+        "rev2-6335003747610845928-00045": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:749779",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335003747610845928-00045.wav",
+                    "ashape": [
+                        177,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335003747610845928/00045.npy",
+                    "vshape": [
+                        44,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "except as a last resort",
+                    "token": "▁ex ce p t ▁as ▁a ▁last ▁re s or t",
+                    "tokenid": "234 22 101 114 165 143 307 387 113 95 114"
+                }
+            ],
+            "utt2spk": "rev2-6335003747610845928"
+        },
+        "rev2-6335305254315087182-00011": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:764631",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00011.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00011.npy",
+                    "vshape": [
+                        45,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "you never know by the end of the build",
+                    "token": "▁you ▁never ▁know ▁by ▁the ▁en d ▁of ▁the ▁build",
+                    "tokenid": "499 339 304 187 441 228 25 348 441 185"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00012": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:780043",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00012.wav",
+                    "ashape": [
+                        216,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00012.npy",
+                    "vshape": [
+                        53,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        14,
+                        502
+                    ],
+                    "text": "i know it comes with planning permission",
+                    "token": "▁i ▁know ▁it ▁come s ▁with ▁plan n ing ▁per m is s ion",
+                    "tokenid": "286 304 298 201 113 490 370 85 61 364 83 64 113 62"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00014": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:798015",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00014.wav",
+                    "ashape": [
+                        299,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00014.npy",
+                    "vshape": [
+                        75,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        19,
+                        502
+                    ],
+                    "text": "but we're going to improve on things like the green roof",
+                    "token": "▁but ▁we ' re ▁going ▁to ▁imp ro ve ▁on ▁things ▁like ▁the ▁g re en ▁ro o f",
+                    "tokenid": "186 480 2 108 258 459 290 110 133 350 449 314 441 251 108 31 393 89 39"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00017": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:822627",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00017.wav",
+                    "ashape": [
+                        145,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00017.npy",
+                    "vshape": [
+                        36,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        13,
+                        502
+                    ],
+                    "text": "we've got a great relationship",
+                    "token": "▁we ' ve ▁got ▁a ▁great ▁re l ation s h i p",
+                    "tokenid": "480 2 133 260 143 261 387 77 19 113 46 48 101"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00028": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:834919",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00028.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00028.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "where is the gas",
+                    "token": "▁where ▁is ▁the ▁ga s",
+                    "tokenid": "485 297 441 252 113"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00032": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:845211",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00032.wav",
+                    "ashape": [
+                        292,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00032.npy",
+                    "vshape": [
+                        73,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        23,
+                        502
+                    ],
+                    "text": "some members of the public don't quite understand leasehold",
+                    "token": "▁some ▁me m b ers ▁of ▁the ▁p u b l ic ▁don ' t ▁quite ▁understand ▁le as e h ol d",
+                    "tokenid": "417 327 83 20 35 348 441 360 123 20 77 52 221 2 114 385 469 308 15 27 46 91 25"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00035": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:869263",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00035.wav",
+                    "ashape": [
+                        145,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00035.npy",
+                    "vshape": [
+                        36,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "if you lived in the building",
+                    "token": "▁if ▁you ▁live d ▁in ▁the ▁build ing",
+                    "tokenid": "288 499 316 25 292 441 185 61"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00036": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:881555",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00036.wav",
+                    "ashape": [
+                        273,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00036.npy",
+                    "vshape": [
+                        68,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        22,
+                        502
+                    ],
+                    "text": "would you want new neighbours every week or every fortnight",
+                    "token": "▁would ▁you ▁want ▁new ▁ne i g h b o ur s ▁every ▁we e k ▁or ▁every ▁for t n ight",
+                    "tokenid": "496 499 477 340 337 48 43 46 20 89 128 113 232 480 27 75 353 232 246 114 85 57"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00057": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:904087",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00057.wav",
+                    "ashape": [
+                        382,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00057.npy",
+                    "vshape": [
+                        96,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        27,
+                        502
+                    ],
+                    "text": "but i think he's already learned some really important property lessons",
+                    "token": "▁but ▁i ▁think ▁he ' s ▁a l re a d y ▁learn ed ▁some ▁really ▁important ▁pro p er t y ▁le s s on s",
+                    "tokenid": "186 286 450 272 2 113 143 77 108 3 25 138 309 29 417 389 291 377 101 34 114 138 308 113 113 93 113"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335305254315087182-00058": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:935339",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335305254315087182-00058.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335305254315087182/00058.npy",
+                    "vshape": [
+                        37,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "choosing a good location",
+                    "token": "▁ch o os ing ▁a ▁good ▁lo c ation",
+                    "tokenid": "195 89 96 61 143 259 317 21 19"
+                }
+            ],
+            "utt2spk": "rev2-6335305254315087182"
+        },
+        "rev2-6335676339489461610-00002": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:948191",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00002.wav",
+                    "ashape": [
+                        235,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00002.npy",
+                    "vshape": [
+                        58,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "you have to hold your nerve",
+                    "token": "▁you ▁have ▁to ▁ho l d ▁your ▁n er ve",
+                    "tokenid": "499 271 459 280 77 25 500 336 34 133"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00011": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:967683",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00011.wav",
+                    "ashape": [
+                        299,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00011.npy",
+                    "vshape": [
+                        74,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        14,
+                        502
+                    ],
+                    "text": "who's very much into family history",
+                    "token": "▁who ' s ▁very ▁much ▁into ▁fa m i ly ▁his t or y",
+                    "tokenid": "487 2 113 474 334 296 238 83 48 82 279 114 95 138"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00014": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:992295",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00014.wav",
+                    "ashape": [
+                        158,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00014.npy",
+                    "vshape": [
+                        39,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "we don't want to spend more than",
+                    "token": "▁we ▁don ' t ▁want ▁to ▁sp en d ▁more ▁than",
+                    "tokenid": "480 221 2 114 477 459 420 31 25 332 439"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00030": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1005627",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00030.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00030.npy",
+                    "vshape": [
+                        31,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "it certainly won't be",
+                    "token": "▁it ▁c er ta in ly ▁w on ' t ▁be",
+                    "tokenid": "298 188 34 115 59 82 476 93 2 114 171"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00031": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1016399",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00031.wav",
+                    "ashape": [
+                        260,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00031.npy",
+                    "vshape": [
+                        65,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "i think something drastic needs to be done",
+                    "token": "▁i ▁think ▁something ▁dr as tic ▁need s ▁to ▁be ▁don e",
+                    "tokenid": "286 450 418 223 15 121 338 113 459 171 221 27"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00038": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1037891",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00038.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00038.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "what do you know about it",
+                    "token": "▁what ▁do ▁you ▁know ▁about ▁it",
+                    "tokenid": "483 220 499 304 144 298"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00042": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1048183",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00042.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00042.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "i'm right in saying that",
+                    "token": "▁i ' m ▁right ▁in ▁say ing ▁that",
+                    "tokenid": "286 2 83 392 292 398 61 440"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00070": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1058475",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00070.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00070.npy",
+                    "vshape": [
+                        30,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "time has passed",
+                    "token": "▁time ▁has ▁pa s s ed",
+                    "tokenid": "458 270 361 113 113 29"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00071": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1068767",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00071.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00071.npy",
+                    "vshape": [
+                        46,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "so let's go back and find out",
+                    "token": "▁so ▁let ' s ▁go ▁back ▁and ▁find ▁out",
+                    "tokenid": "415 310 2 113 257 169 156 242 357"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6335676339489461610-00079": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1084179",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6335676339489461610-00079.wav",
+                    "ashape": [
+                        94,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6335676339489461610/00079.npy",
+                    "vshape": [
+                        23,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "i'm very impressed",
+                    "token": "▁i ' m ▁very ▁imp re s s ed",
+                    "tokenid": "286 2 83 474 290 108 113 113 29"
+                }
+            ],
+            "utt2spk": "rev2-6335676339489461610"
+        },
+        "rev2-6336047424663836038-00001": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1092391",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336047424663836038-00001.wav",
+                    "ashape": [
+                        94,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336047424663836038/00001.npy",
+                    "vshape": [
+                        24,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "the best bargains",
+                    "token": "▁the ▁be s t ▁b ar g a in s",
+                    "tokenid": "441 171 113 114 167 14 43 3 59 113"
+                }
+            ],
+            "utt2spk": "rev2-6336047424663836038"
+        },
+        "rev2-6336047424663836038-00006": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1100603",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336047424663836038-00006.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336047424663836038/00006.npy",
+                    "vshape": [
+                        31,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        4,
+                        502
+                    ],
+                    "text": "not quite as high",
+                    "token": "▁not ▁quite ▁as ▁high",
+                    "tokenid": "344 385 165 278"
+                }
+            ],
+            "utt2spk": "rev2-6336047424663836038"
+        },
+        "rev2-6336047424663836038-00008": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1111375",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336047424663836038-00008.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336047424663836038/00008.npy",
+                    "vshape": [
+                        34,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "it's a plus point",
+                    "token": "▁it ' s ▁a ▁p l us ▁point",
+                    "tokenid": "298 2 113 143 360 77 130 373"
+                }
+            ],
+            "utt2spk": "rev2-6336047424663836038"
+        },
+        "rev2-6336047424663836038-00061": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1123187",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336047424663836038-00061.wav",
+                    "ashape": [
+                        100,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336047424663836038/00061.npy",
+                    "vshape": [
+                        25,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "on the face of it",
+                    "token": "▁on ▁the ▁fa ce ▁of ▁it",
+                    "tokenid": "350 441 238 22 348 298"
+                }
+            ],
+            "utt2spk": "rev2-6336047424663836038"
+        },
+        "rev2-6336047424663836038-00076": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1131879",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336047424663836038-00076.wav",
+                    "ashape": [
+                        216,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336047424663836038/00076.npy",
+                    "vshape": [
+                        54,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "the first and second floor flats",
+                    "token": "▁the ▁first ▁and ▁second ▁f l o or ▁f l at s",
+                    "tokenid": "441 243 156 403 237 77 89 95 237 77 16 113"
+                }
+            ],
+            "utt2spk": "rev2-6336047424663836038"
+        },
+        "rev2-6336117003133970558-00003": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1149851",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336117003133970558-00003.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336117003133970558/00003.npy",
+                    "vshape": [
+                        35,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "as a result of smoking",
+                    "token": "▁as ▁a ▁re s ul t ▁of ▁s m o k ing",
+                    "tokenid": "165 143 387 113 125 114 348 394 83 89 75 61"
+                }
+            ],
+            "utt2spk": "rev2-6336117003133970558"
+        },
+        "rev2-6336117003133970558-00018": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1161663",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336117003133970558-00018.wav",
+                    "ashape": [
+                        94,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336117003133970558/00018.npy",
+                    "vshape": [
+                        23,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "we'll give it a try",
+                    "token": "▁we ' ll ▁give ▁it ▁a ▁t ry",
+                    "tokenid": "480 2 81 255 298 143 429 112"
+                }
+            ],
+            "utt2spk": "rev2-6336117003133970558"
+        },
+        "rev2-6336117003133970558-00062": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1169875",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336117003133970558-00062.wav",
+                    "ashape": [
+                        94,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336117003133970558/00062.npy",
+                    "vshape": [
+                        23,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "go to the press",
+                    "token": "▁go ▁to ▁the ▁pre s s",
+                    "tokenid": "257 459 441 375 113 113"
+                }
+            ],
+            "utt2spk": "rev2-6336117003133970558"
+        },
+        "rev2-6336117003133970558-00067": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1178087",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336117003133970558-00067.wav",
+                    "ashape": [
+                        100,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336117003133970558/00067.npy",
+                    "vshape": [
+                        25,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "learning the ropes",
+                    "token": "▁learn ing ▁the ▁ro p es",
+                    "tokenid": "309 61 441 393 101 36"
+                }
+            ],
+            "utt2spk": "rev2-6336117003133970558"
+        },
+        "rev2-6336739343895160063-00006": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1186779",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00006.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00006.npy",
+                    "vshape": [
+                        34,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "eight feet tall",
+                    "token": "▁eight ▁f e et ▁ta ll",
+                    "tokenid": "227 237 27 38 430 81"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00016": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1198591",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00016.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00016.npy",
+                    "vshape": [
+                        35,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "and the reason for that",
+                    "token": "▁and ▁the ▁reason ▁for ▁that",
+                    "tokenid": "156 441 390 246 440"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00021": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1210403",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00021.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00021.npy",
+                    "vshape": [
+                        35,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "a little saxifrage",
+                    "token": "▁a ▁little ▁sa x i f r age",
+                    "tokenid": "143 315 395 137 48 39 106 7"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00027": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1222215",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00027.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00027.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        4,
+                        502
+                    ],
+                    "text": "wherever you are",
+                    "token": "▁where ver ▁you ▁are",
+                    "tokenid": "485 134 499 162"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00040": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1231467",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00040.wav",
+                    "ashape": [
+                        216,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00040.npy",
+                    "vshape": [
+                        53,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        15,
+                        502
+                    ],
+                    "text": "it may be a miniature compared to that",
+                    "token": "▁it ▁ma y ▁be ▁a ▁m in i at ure ▁comp ar ed ▁to ▁that",
+                    "tokenid": "298 322 138 171 143 321 59 48 16 129 202 14 29 459 440"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00042": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1249439",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00042.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00042.npy",
+                    "vshape": [
+                        38,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "i can plant them in that spot",
+                    "token": "▁i ▁can ▁plan t ▁them ▁in ▁that ▁sp o t",
+                    "tokenid": "286 192 370 114 443 292 440 420 89 114"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00046": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1262291",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00046.wav",
+                    "ashape": [
+                        113,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00046.npy",
+                    "vshape": [
+                        28,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "sometimes it doesn't",
+                    "token": "▁some t i m es ▁it ▁do es n ' t",
+                    "tokenid": "417 114 48 83 36 298 220 36 85 2 114"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00052": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1272023",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00052.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00052.npy",
+                    "vshape": [
+                        34,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "i think it looks great",
+                    "token": "▁i ▁think ▁it ▁look s ▁great",
+                    "tokenid": "286 450 298 319 113 261"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00053": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1283835",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00053.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00053.npy",
+                    "vshape": [
+                        38,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "that's quite a large leaf",
+                    "token": "▁that ' s ▁quite ▁a ▁large ▁le a f",
+                    "tokenid": "440 2 113 385 143 306 308 3 39"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336739343895160063-00056": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1296687",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336739343895160063-00056.wav",
+                    "ashape": [
+                        145,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336739343895160063/00056.npy",
+                    "vshape": [
+                        36,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "and it's a great way to eat it",
+                    "token": "▁and ▁it ' s ▁a ▁great ▁way ▁to ▁e at ▁it",
+                    "tokenid": "156 298 2 113 143 261 479 459 224 16 298"
+                }
+            ],
+            "utt2spk": "rev2-6336739343895160063"
+        },
+        "rev2-6336851442541654996-00001": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1308979",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336851442541654996-00001.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336851442541654996/00001.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "that first meeting",
+                    "token": "▁that ▁first ▁me et ing",
+                    "tokenid": "440 243 327 38 61"
+                }
+            ],
+            "utt2spk": "rev2-6336851442541654996"
+        },
+        "rev2-6336917155541276097-00004": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1318231",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336917155541276097-00004.wav",
+                    "ashape": [
+                        190,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336917155541276097/00004.npy",
+                    "vshape": [
+                        48,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "but now we have these viruses",
+                    "token": "▁but ▁now ▁we ▁have ▁these ▁vi ru s es",
+                    "tokenid": "186 345 480 271 446 475 111 113 36"
+                }
+            ],
+            "utt2spk": "rev2-6336917155541276097"
+        },
+        "rev2-6336917155541276097-00005": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1334123",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336917155541276097-00005.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336917155541276097/00005.npy",
+                    "vshape": [
+                        29,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "squirrel pox virus",
+                    "token": "▁s q u ir re l ▁po x ▁vi ru s",
+                    "tokenid": "394 103 123 63 108 77 372 137 475 111 113"
+                }
+            ],
+            "utt2spk": "rev2-6336917155541276097"
+        },
+        "rev2-6336917155541276097-00007": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1344415",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336917155541276097-00007.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336917155541276097/00007.npy",
+                    "vshape": [
+                        32,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "causes it no harm",
+                    "token": "▁ca us es ▁it ▁no ▁ha r m",
+                    "tokenid": "189 130 36 298 343 264 106 83"
+                }
+            ],
+            "utt2spk": "rev2-6336917155541276097"
+        },
+        "rev2-6336917155541276097-00022": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1355187",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336917155541276097-00022.wav",
+                    "ashape": [
+                        158,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336917155541276097/00022.npy",
+                    "vshape": [
+                        39,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "but not for me as a farmer",
+                    "token": "▁but ▁not ▁for ▁me ▁as ▁a ▁f ar m er",
+                    "tokenid": "186 344 246 327 165 143 237 14 83 34"
+                }
+            ],
+            "utt2spk": "rev2-6336917155541276097"
+        },
+        "rev2-6336917155541276097-00037": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1368519",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6336917155541276097-00037.wav",
+                    "ashape": [
+                        88,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6336917155541276097/00037.npy",
+                    "vshape": [
+                        22,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "it's that simple",
+                    "token": "▁it ' s ▁that ▁simple",
+                    "tokenid": "298 2 113 440 412"
+                }
+            ],
+            "utt2spk": "rev2-6336917155541276097"
+        },
+        "rev2-6337160680186960682-00038": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1376251",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337160680186960682-00038.wav",
+                    "ashape": [
+                        164,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337160680186960682/00038.npy",
+                    "vshape": [
+                        41,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "this really is a tale of two cities",
+                    "token": "▁this ▁really ▁is ▁a ▁ta le ▁of ▁two ▁c it ies",
+                    "tokenid": "452 389 297 143 430 80 348 466 188 67 56"
+                }
+            ],
+            "utt2spk": "rev2-6337160680186960682"
+        },
+        "rev2-6337160680186960682-00051": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1390063",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337160680186960682-00051.wav",
+                    "ashape": [
+                        171,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337160680186960682/00051.npy",
+                    "vshape": [
+                        42,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "it's a long way from home",
+                    "token": "▁it ' s ▁a ▁long ▁way ▁from ▁home",
+                    "tokenid": "298 2 113 143 318 479 249 281"
+                }
+            ],
+            "utt2spk": "rev2-6337160680186960682"
+        },
+        "rev2-6337160680186960682-00054": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1404435",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337160680186960682-00054.wav",
+                    "ashape": [
+                        299,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337160680186960682/00054.npy",
+                    "vshape": [
+                        74,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "as you enter the rear part of the shop",
+                    "token": "▁as ▁you ▁en ter ▁the ▁re ar ▁part ▁of ▁the ▁sh op",
+                    "tokenid": "165 499 228 118 441 387 14 362 348 441 407 94"
+                }
+            ],
+            "utt2spk": "rev2-6337160680186960682"
+        },
+        "rev2-6337160680186960682-00060": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1429047",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337160680186960682-00060.wav",
+                    "ashape": [
+                        158,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337160680186960682/00060.npy",
+                    "vshape": [
+                        39,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "lots of things to think about",
+                    "token": "▁lot s ▁of ▁things ▁to ▁think ▁about",
+                    "tokenid": "320 113 348 449 459 450 144"
+                }
+            ],
+            "utt2spk": "rev2-6337160680186960682"
+        },
+        "rev2-6337160680186960682-00078": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1442379",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337160680186960682-00078.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337160680186960682/00078.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        8,
+                        502
+                    ],
+                    "text": "i'm still happy",
+                    "token": "▁i ' m ▁still ▁ha p p y",
+                    "tokenid": "286 2 83 424 264 101 101 138"
+                }
+            ],
+            "utt2spk": "rev2-6337160680186960682"
+        },
+        "rev2-6337230258657094880-00029": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1451631",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337230258657094880-00029.wav",
+                    "ashape": [
+                        145,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337230258657094880/00029.npy",
+                    "vshape": [
+                        36,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "you must have a personal key",
+                    "token": "▁you ▁m us t ▁have ▁a ▁person al ▁k e y",
+                    "tokenid": "499 321 130 114 271 143 366 8 302 27 138"
+                }
+            ],
+            "utt2spk": "rev2-6337230258657094880"
+        },
+        "rev2-6337531765361335111-00008": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1463923",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00008.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00008.npy",
+                    "vshape": [
+                        27,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        5,
+                        502
+                    ],
+                    "text": "we will own it together",
+                    "token": "▁we ▁will ▁own ▁it ▁together",
+                    "tokenid": "480 489 359 298 461"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00018": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1473175",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00018.wav",
+                    "ashape": [
+                        222,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00018.npy",
+                    "vshape": [
+                        56,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "it will be a great investment",
+                    "token": "▁it ▁will ▁be ▁a ▁great ▁in ve s t ment",
+                    "tokenid": "298 489 171 143 261 292 133 113 114 84"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00019": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1491627",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00019.wav",
+                    "ashape": [
+                        203,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00019.npy",
+                    "vshape": [
+                        51,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "or properties should i say",
+                    "token": "▁or ▁pro p er t ies ▁should ▁i ▁say",
+                    "tokenid": "353 377 101 34 114 56 409 286 398"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00022": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1508559",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00022.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00022.npy",
+                    "vshape": [
+                        35,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "pretty on the outside",
+                    "token": "▁pretty ▁on ▁the ▁out s id e",
+                    "tokenid": "376 350 441 357 113 55 27"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00029": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1520371",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00029.wav",
+                    "ashape": [
+                        152,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00029.npy",
+                    "vshape": [
+                        38,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "because it was offices",
+                    "token": "▁because ▁it ▁was ▁of f ic es",
+                    "tokenid": "172 298 478 348 39 52 36"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00037": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1533223",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00037.wav",
+                    "ashape": [
+                        196,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00037.npy",
+                    "vshape": [
+                        49,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "very close by the university",
+                    "token": "▁very ▁close ▁by ▁the ▁un i ver s ity",
+                    "tokenid": "474 198 187 441 467 48 134 113 69"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00069": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1549595",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00069.wav",
+                    "ashape": [
+                        113,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00069.npy",
+                    "vshape": [
+                        28,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "ground floor flat",
+                    "token": "▁g r ound ▁f l o or ▁f l at",
+                    "tokenid": "251 106 98 237 77 89 95 237 77 16"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337531765361335111-00073": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1559327",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337531765361335111-00073.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337531765361335111/00073.npy",
+                    "vshape": [
+                        26,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "i would market that",
+                    "token": "▁i ▁would ▁m ar ke t ▁that",
+                    "tokenid": "286 496 321 14 76 114 440"
+                }
+            ],
+            "utt2spk": "rev2-6337531765361335111"
+        },
+        "rev2-6337902850535709539-00015": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1568579",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00015.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00015.npy",
+                    "vshape": [
+                        35,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "add another ten on",
+                    "token": "▁a d d ▁another ▁ten ▁on",
+                    "tokenid": "143 25 25 158 437 350"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6337902850535709539-00027": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1580391",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00027.wav",
+                    "ashape": [
+                        107,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00027.npy",
+                    "vshape": [
+                        27,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "for this property",
+                    "token": "▁for ▁this ▁pro p er t y",
+                    "tokenid": "246 452 377 101 34 114 138"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6337902850535709539-00038": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1589643",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00038.wav",
+                    "ashape": [
+                        120,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00038.npy",
+                    "vshape": [
+                        29,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "but in this case",
+                    "token": "▁but ▁in ▁this ▁ca s e",
+                    "tokenid": "186 292 452 189 113 27"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6337902850535709539-00065": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1599935",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00065.wav",
+                    "ashape": [
+                        248,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00065.npy",
+                    "vshape": [
+                        61,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        17,
+                        502
+                    ],
+                    "text": "one bedroom apartments around here at the moment",
+                    "token": "▁one ▁be d ro om ▁a p ar t ment s ▁around ▁here ▁at ▁the ▁mo ment",
+                    "tokenid": "351 171 25 110 92 143 101 14 114 84 113 163 276 166 441 330 84"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6337902850535709539-00068": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1620467",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00068.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00068.npy",
+                    "vshape": [
+                        46,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        4,
+                        502
+                    ],
+                    "text": "probably around 85",
+                    "token": "▁probably ▁around ▁ 85",
+                    "tokenid": "378 163 142 1"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6337902850535709539-00074": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1635879",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00074.wav",
+                    "ashape": [
+                        139,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00074.npy",
+                    "vshape": [
+                        34,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        9,
+                        502
+                    ],
+                    "text": "and since the conversion",
+                    "token": "▁and ▁s in ce ▁the ▁con ver s ion",
+                    "tokenid": "156 394 59 22 441 204 134 113 62"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6337902850535709539-00077": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1647691",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6337902850535709539-00077.wav",
+                    "ashape": [
+                        171,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6337902850535709539/00077.npy",
+                    "vshape": [
+                        43,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "realistic value wise",
+                    "token": "▁real ist ic ▁v al u e ▁w is e",
+                    "tokenid": "388 66 52 473 8 123 27 476 64 27"
+                }
+            ],
+            "utt2spk": "rev2-6337902850535709539"
+        },
+        "rev2-6338130913429528164-00002": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1662063",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338130913429528164-00002.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338130913429528164/00002.npy",
+                    "vshape": [
+                        31,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "she was a flawed ship",
+                    "token": "▁she ▁was ▁a ▁f la w ed ▁sh i p",
+                    "tokenid": "408 478 143 237 78 136 29 407 48 101"
+                }
+            ],
+            "utt2spk": "rev2-6338130913429528164"
+        },
+        "rev2-6338130913429528164-00003": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1672835",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338130913429528164-00003.wav",
+                    "ashape": [
+                        171,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338130913429528164/00003.npy",
+                    "vshape": [
+                        42,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "even before she entered the water",
+                    "token": "▁even ▁before ▁she ▁en ter ed ▁the ▁w a ter",
+                    "tokenid": "231 175 408 228 118 29 441 476 3 118"
+                }
+            ],
+            "utt2spk": "rev2-6338130913429528164"
+        },
+        "rev2-6338130913429528164-00028": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1687207",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338130913429528164-00028.wav",
+                    "ashape": [
+                        254,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338130913429528164/00028.npy",
+                    "vshape": [
+                        63,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        19,
+                        502
+                    ],
+                    "text": "visiting almost all parts of the empire",
+                    "token": "▁vi s it ing ▁a l m os t ▁all ▁part s ▁of ▁the ▁e m p i re",
+                    "tokenid": "475 113 67 61 143 77 83 96 114 151 362 113 348 441 224 83 101 48 108"
+                }
+            ],
+            "utt2spk": "rev2-6338130913429528164"
+        },
+        "rev2-6338130913429528164-00037": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1708219",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338130913429528164-00037.wav",
+                    "ashape": [
+                        145,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338130913429528164/00037.npy",
+                    "vshape": [
+                        36,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "from small ships",
+                    "token": "▁from ▁small ▁sh i p s",
+                    "tokenid": "249 414 407 48 101 113"
+                }
+            ],
+            "utt2spk": "rev2-6338130913429528164"
+        },
+        "rev2-6338130913429528164-00046": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1720511",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338130913429528164-00046.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338130913429528164/00046.npy",
+                    "vshape": [
+                        32,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        7,
+                        502
+                    ],
+                    "text": "is it true she was",
+                    "token": "▁is ▁it ▁t ru e ▁she ▁was",
+                    "tokenid": "297 298 429 111 27 408 478"
+                }
+            ],
+            "utt2spk": "rev2-6338130913429528164"
+        },
+        "rev2-6338273935710083967-00003": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1731283",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338273935710083967-00003.wav",
+                    "ashape": [
+                        248,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338273935710083967/00003.npy",
+                    "vshape": [
+                        62,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        16,
+                        502
+                    ],
+                    "text": "sometimes it's difficult to know where",
+                    "token": "▁some t i m es ▁it ' s ▁di ff ic ul t ▁to ▁know ▁where",
+                    "tokenid": "417 114 48 83 36 298 2 113 216 40 52 125 114 459 304 485"
+                }
+            ],
+            "utt2spk": "rev2-6338273935710083967"
+        },
+        "rev2-6338273935710083967-00004": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1751815",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338273935710083967-00004.wav",
+                    "ashape": [
+                        158,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338273935710083967/00004.npy",
+                    "vshape": [
+                        39,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        11,
+                        502
+                    ],
+                    "text": "if you intend to bid on a place",
+                    "token": "▁if ▁you ▁in ten d ▁to ▁b id ▁on ▁a ▁place",
+                    "tokenid": "288 499 292 117 25 459 167 55 350 143 369"
+                }
+            ],
+            "utt2spk": "rev2-6338273935710083967"
+        },
+        "rev2-6338273935710083967-00021": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1765147",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338273935710083967-00021.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338273935710083967/00021.npy",
+                    "vshape": [
+                        45,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        12,
+                        502
+                    ],
+                    "text": "it's hard to come away from it",
+                    "token": "▁it ' s ▁hard ▁to ▁come ▁a w a y ▁from ▁it",
+                    "tokenid": "298 2 113 269 459 201 143 136 3 138 249 298"
+                }
+            ],
+            "utt2spk": "rev2-6338273935710083967"
+        },
+        "rev2-6338273935710083967-00038": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1780559",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338273935710083967-00038.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338273935710083967/00038.npy",
+                    "vshape": [
+                        46,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        10,
+                        502
+                    ],
+                    "text": "it seems a very good location",
+                    "token": "▁it ▁see m s ▁a ▁very ▁good ▁lo c ation",
+                    "tokenid": "298 404 83 113 143 474 259 317 21 19"
+                }
+            ],
+            "utt2spk": "rev2-6338273935710083967"
+        },
+        "rev2-6338273935710083967-00047": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1795971",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338273935710083967-00047.wav",
+                    "ashape": [
+                        184,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338273935710083967/00047.npy",
+                    "vshape": [
+                        45,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        13,
+                        502
+                    ],
+                    "text": "because of the demand of the market",
+                    "token": "▁because ▁of ▁the ▁de m an d ▁of ▁the ▁m ar ke t",
+                    "tokenid": "172 348 441 213 83 11 25 348 441 321 14 76 114"
+                }
+            ],
+            "utt2spk": "rev2-6338273935710083967"
+        },
+        "rev2-6338273935710083967-00059": {
+            "input": [
+                {
+                    "afeat": "/project_bdda7/bdda/gnli/projects/TASLP-22/Back-End/asr_lrs2/T4-sys1_asr_online_ao_mvdr/dump/Test/deltafalse/feats.9.ark:1811383",
+                    "afeat_wav": "/project_bdda7/bdda/gnli/projects/TASLP-22/Front-End/separation/summary_lipemb-LPS+IPD+AF-SISNR+SISNR_NOISE/model_mvdr-AF_premasking=False-Batch_Size=32-Dloading=1e-5-add_visual=True/test_eps=54_dl=1e-5/rev2-6338273935710083967-00059.wav",
+                    "ashape": [
+                        126,
+                        80
+                    ],
+                    "name": "input1",
+                    "vfeat": "/project_bdda7/bdda/gnli/Data/lrs2_new/lip_emb_data/test/emb/6338273935710083967/00059.npy",
+                    "vshape": [
+                        32,
+                        512
+                    ]
+                }
+            ],
+            "output": [
+                {
+                    "name": "target1",
+                    "shape": [
+                        6,
+                        502
+                    ],
+                    "text": "it might be viable",
+                    "token": "▁it ▁m ight ▁be ▁vi able",
+                    "tokenid": "298 321 57 171 475 5"
+                }
+            ],
+            "utt2spk": "rev2-6338273935710083967"
+        }
+    }
+}

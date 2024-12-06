@@ -1,0 +1,5 @@
+# feat-to-shape.py --verbose 0 scp:dump/video/lrs3_test/log/feats.1.scp dump/video/lrs3_test/log/shape.1.scp 
+# Started at Thu Jun  8 11:12:59 HKT 2023
+#
+# Accounting: time=2 threads=1
+# Ended (code 0) at Thu Jun  8 11:13:01 HKT 2023, elapsed time 2 seconds

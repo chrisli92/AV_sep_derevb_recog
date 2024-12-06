@@ -1,5 +1,0 @@
-# feat-to-shape.py --verbose 0 scp:dump/video/Test/log/feats.1.scp dump/video/Test/log/shape.1.scp 
-# Started at Tue Oct  4 14:42:00 HKT 2022
-#
-# Accounting: time=1 threads=1
-# Ended (code 0) at Tue Oct  4 14:42:01 HKT 2022, elapsed time 1 seconds
